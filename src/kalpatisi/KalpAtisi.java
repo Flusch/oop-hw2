@@ -1,8 +1,3 @@
-/*
-Yavuz Selim GÜLER
-1306160016
-Kalp Atışı
- */
 package KalpAtisi;
 import java.util.Scanner;
 import java.time.format.DateTimeFormatter;  
